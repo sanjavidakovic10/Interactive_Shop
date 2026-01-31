@@ -1,0 +1,14 @@
+1|Petar|Petrović|pera|123456|kupac
+2|Maja|Majić|maja|maja123|kupac
+3|Jelisaveta|Marković|jelamar|markovic589|kupac
+4|Dunja|Mikić|duki|mikicdunja124|kupac
+5|Anja|Simić|anci|najkupac|kupac
+6|Sanja|Milojević|sanjci|sanjmil|kupac
+7|Aleksandar|Ostojić|aleksandar|ostoja|kupac
+8|Luka|Kraljević|luksa|king|kupac
+9|Aleksej|Domanović|aleksej|sifra123|kupac
+10|Ilija|Ilić|ilija|lozinka456|kupac
+11|Maksi|doo|maksi|jakalozinka78|prodavac
+12|Idea|doo|idea|jakalozinkaYD57|prodavac
+13|Milutin|Ilić|prodavac1|SDF'87*op|prodavac
+14|Prodan|Prodanović|prodavac2|ztg9-l!|prodavac

@@ -1,0 +1,20 @@
+#šifra|naziv|cena|kolikoImaNaStanju
+A101|Čokolada Milka|120.5|488
+A102|Sok od narandže|89.99|800
+A103|Brašno 1kg|75.0|100
+A104|Čokolada Najlepše želje 200g|399.99|500
+A105|Sok od borovnice|89.99|795
+A106|Sok od breskve|89.99|800
+A107|Kocka šećer kg|120.0|450
+A108|WC papir|600.0|500
+A109|Pasta za zube|100.0|900
+B201|Dinja kg|56.99|998
+B202|Lubenica|25.0|1000
+B203|Breskva|350.0|996
+B204|Nektarina|280.0|1000
+B205|Mango kom|300.0|997
+C301|Luk kg|66.99|989
+C302|Krompir|80.0|1000
+C303|Šargarepa|56.99|1000
+C304|Celer|250.0|1000
+C305|Tikvica|160.0|1000

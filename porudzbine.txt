@@ -1,0 +1,10 @@
+#id_racuna|id_kupca|id_prodavca|datum|vreme|listaRecnikaArtikala|racunCena
+1|1|12|2025-09-16|17:52|[{'sifra': 'A101', 'naziv': 'Čokolada Milka', 'cena': 120.5, 'kolicina': 2}]|241.0
+2|2|14|2025-09-16|17:52|[{'sifra': 'A103', 'naziv': 'Brašno 1kg', 'cena': 75.0, 'kolicina': 3}]|225.0
+3|1|0|2025-09-14|18:41|[{'sifra': 'B205', 'naziv': 'Mango kom', 'cena': 300.0, 'kolicina': 1}, {'sifra': 'C301', 'naziv': 'Luk kg', 'cena': 66.99, 'kolicina': 3}]|500.96999999999997
+4|1|13|2025-09-14|19:11|[{'sifra': 'B205', 'naziv': 'Mango kom', 'cena': 300.0, 'kolicina': 1}, {'sifra': 'C301', 'naziv': 'Luk kg', 'cena': 66.99, 'kolicina': 5}]|634.95
+5|1|11|2025-09-14|21:21|[{'sifra': 'A105', 'naziv': 'Sok od borovnice', 'cena': 89.99, 'kolicina': 5}, {'sifra': 'B203', 'naziv': 'Breskva', 'cena': 350.0, 'kolicina': 4}]|1849.95
+6|1|12|2025-09-15|00:09|[{'sifra': 'A101', 'naziv': 'Čokolada Milka', 'cena': 120.5, 'kolicina': 5}, {'sifra': 'B201', 'naziv': 'Dinja kg', 'cena': 56.99, 'kolicina': 2}]|716.48
+7|1|11|2025-09-15|00:47|[{'sifra': 'A101', 'naziv': 'Čokolada Milka', 'cena': 120.5, 'kolicina': 1}]|120.5
+8|1|14|2025-09-15|01:40|[{'sifra': 'A101', 'naziv': 'Čokolada Milka', 'cena': 120.5, 'kolicina': 1}]|120.5
+9|1|12|2025-09-25|11:53|[{'sifra': 'A101', 'naziv': 'Čokolada Milka', 'cena': 120.5, 'kolicina': 5}]|602.5
