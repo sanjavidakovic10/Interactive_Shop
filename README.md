@@ -1,0 +1,1 @@
+Razvijena je konzolna aplikacija u Pythonu koja simulira rad jednostavne prodavnice. Sistem omogućava prijavu korisnika kao kupca ili prodavca sa različitim funkcionalnostima. Kupci pregledaju proizvode i kreiraju porudžbine, dok prodavci obrađuju porudžbine i račune. Projekat je fokusiran na rad sa fajlovima i osnovnu poslovnu logiku.
